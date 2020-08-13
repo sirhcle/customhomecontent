@@ -1,0 +1,266 @@
+{
+	"homeCustomPageContent": [
+		{
+			"id":"customItem1",
+			"content":
+			{
+				
+				"bannerContent": {
+					"bannerType": "stack",
+					"bannerItems": [{
+						"redirectsTo": "cat4320020",
+						"image": "https://assetspwa.liverpool.com.mx/assets/digital/home/img/agosto/bpromo01a_030820nin_app.jpg",
+						"type": "plp",
+						"title": "ninos_030820",
+						"campaign": "Niños hasta 60% de desc",
+						"view": "h_banner_m_secun",
+						"position": "0"
+					}, {
+						"redirectsTo": "cat5380128",
+						"image": "https://assetspwa.liverpool.com.mx/assets/digital/home/img/agosto/bpromo01b_030820zap_app.jpg",
+						"type": "plp",
+						"title": "zapatos_030820",
+						"campaign": "Zapatos hasta 60% de desc",
+						"view": "h_banner_m_secun",
+						"position": "1"
+					}, {
+						"redirectsTo": "cat4580130",
+						"image": "https://assetspwa.liverpool.com.mx/assets/digital/home/img/agosto/bpromo01c_030820beb_app.jpg",
+						"type": "plp",
+						"title": "bebes_030820",
+						"campaign": "Bebés hasta 60% de desc",
+						"view": "h_banner_m_secun",
+						"position": "2"
+					}, {
+						"redirectsTo": "cat4320020",
+						"image": "https://assetspwa.liverpool.com.mx/assets/digital/home/img/agosto/bpromo01d_030820pro_app.jpg",
+						"type": "plp",
+						"title": "proteccion_desinfeccion_030820",
+						"campaign": "Protección y Desinfección",
+						"view": "h_banner_m_secun",
+						"position": "3"
+					}]
+				},
+				"type": "banner"
+			}
+		},
+		{
+			"id":"customItem2",
+			"content":
+			{
+				"carouselContent": {
+					"moreLinkCategory": "cat860703",
+					"minNumRecords": 2,
+					"maximumNumRecords": 12,
+					"name": "POLOS ",
+					"recommendedItems": [{
+						"displayName": "Playera tipo Polo para Caballero Oscar de la Renta",
+						"largeImage": "https://media17qa.liverpool.com.mx/web/images/products/es_MX/lg/1030108314.jpg",
+						"productId": "1030108314",
+						"listPrice": 279.0,
+						"promoPrice": 0.0,
+						"salePrice": 279.0,
+						"groupType": "not specified",
+						"isHybrid": false,
+						"isMarketPlace": false,
+						"brand": "OSCAR DE LA RENTA",
+						"seller": "Liverpool",
+						"category": "Playeras y Polos",
+						"minimumListPrice": 279.0,
+						"maximumListPrice": 279.0,
+						"minimumPromoPrice": 0.0,
+						"maximumPromoPrice": 0.0
+					}, {
+						"displayName": "Playera tipo Polo para Caballero Regent Street",
+						"largeImage": "https://media14qa.liverpool.com.mx/web/images/products/es_MX/lg/1027364548.jpg",
+						"productId": "1027364548",
+						"listPrice": 159.0,
+						"promoPrice": 0.0,
+						"salePrice": 159.0,
+						"groupType": "not specified",
+						"isHybrid": false,
+						"isMarketPlace": false,
+						"brand": "REGENT STREET",
+						"seller": "Liverpool",
+						"category": "Polos",
+						"minimumListPrice": 159.0,
+						"maximumListPrice": 159.0,
+						"minimumPromoPrice": 0.0,
+						"maximumPromoPrice": 0.0
+					}, {
+						"displayName": "Bermuda lisa Náutica",
+						"largeImage": "https://ss261qa.liverpool.com.mx/lg/1024050411.jpg",
+						"productId": "1024050411",
+						"listPrice": 1290.0,
+						"promoPrice": 0.0,
+						"salePrice": 1290.0,
+						"groupType": "mac",
+						"isHybrid": false,
+						"isMarketPlace": false,
+						"brand": "NAUTICA",
+						"seller": "Liverpool",
+						"category": "Casuales",
+						"minimumListPrice": 1290.0,
+						"maximumListPrice": 1290.0,
+						"minimumPromoPrice": 0.0,
+						"maximumPromoPrice": 0.0
+					}, {
+						"displayName": "Playera tipo Polo para Caballero Tommy Hilfiger",
+						"largeImage": "https://media22qa.liverpool.com.mx/web/images/products/es_MX/lg/1030796571.jpg",
+						"productId": "1030796571",
+						"listPrice": 449.0,
+						"promoPrice": 0.0,
+						"salePrice": 449.0,
+						"groupType": "not specified",
+						"isHybrid": false,
+						"isMarketPlace": false,
+						"brand": "TOMMY HILFIGER",
+						"seller": "Liverpool",
+						"category": "Playeras y Polos",
+						"minimumListPrice": 449.0,
+						"maximumListPrice": 449.0,
+						"minimumPromoPrice": 0.0,
+						"maximumPromoPrice": 0.0
+					}, {
+						"displayName": "Playera tipo Polo para Caballero Scappino",
+						"largeImage": "https://media17qa.liverpool.com.mx/web/images/products/es_MX/lg/1027832479.jpg",
+						"productId": "1027832479",
+						"listPrice": 1090.0,
+						"promoPrice": 0.0,
+						"salePrice": 1090.0,
+						"groupType": "not specified",
+						"isHybrid": false,
+						"isMarketPlace": false,
+						"brand": "SCAPPINO",
+						"seller": "Liverpool",
+						"category": "Polos",
+						"minimumListPrice": 1090.0,
+						"maximumListPrice": 1090.0,
+						"minimumPromoPrice": 0.0,
+						"maximumPromoPrice": 0.0
+					}, {
+						"displayName": "Playera tipo Polo para Caballero Lacoste",
+						"largeImage": "https://media23qa.liverpool.com.mx/web/images/products/es_MX/lg/77876891.jpg",
+						"productId": "77876891",
+						"listPrice": 1590.0,
+						"promoPrice": 0.0,
+						"salePrice": 1590.0,
+						"groupType": "not specified",
+						"isHybrid": false,
+						"isMarketPlace": false,
+						"brand": "LACOSTE",
+						"seller": "Liverpool",
+						"category": "Playeras y Camisas",
+						"minimumListPrice": 1590.0,
+						"maximumListPrice": 1590.0,
+						"minimumPromoPrice": 0.0,
+						"maximumPromoPrice": 0.0
+					}, {
+						"displayName": "Playera tipo Polo para Caballero Lacoste",
+						"largeImage": "https://media21qa.liverpool.com.mx/web/images/products/es_MX/lg/1014390681.jpg",
+						"productId": "1014390681",
+						"listPrice": 1590.0,
+						"promoPrice": 0.0,
+						"salePrice": 1590.0,
+						"groupType": "not specified",
+						"isHybrid": false,
+						"isMarketPlace": false,
+						"brand": "LACOSTE",
+						"seller": "Liverpool",
+						"category": "Playeras y Camisas",
+						"minimumListPrice": 1590.0,
+						"maximumListPrice": 1590.0,
+						"minimumPromoPrice": 0.0,
+						"maximumPromoPrice": 0.0
+					}, {
+						"displayName": "Playera tipo Polo para Caballero JBE",
+						"largeImage": "https://media12qa.liverpool.com.mx/web/images/products/es_MX/lg/1026342150.jpg",
+						"productId": "1026342150",
+						"listPrice": 159.0,
+						"promoPrice": 0.0,
+						"salePrice": 159.0,
+						"groupType": "not specified",
+						"isHybrid": false,
+						"isMarketPlace": false,
+						"brand": "JBE",
+						"seller": "Liverpool",
+						"category": "Playeras y Polos",
+						"minimumListPrice": 159.0,
+						"maximumListPrice": 159.0,
+						"minimumPromoPrice": 0.0,
+						"maximumPromoPrice": 0.0
+					}, {
+						"displayName": "Playera tipo Polo para Caballero Chaps",
+						"largeImage": "https://media21qa.liverpool.com.mx/web/images/products/es_MX/lg/1027924292.jpg",
+						"productId": "1027924292",
+						"listPrice": 199.0,
+						"promoPrice": 0.0,
+						"salePrice": 199.0,
+						"groupType": "not specified",
+						"isHybrid": false,
+						"isMarketPlace": false,
+						"brand": "CHAPS",
+						"seller": "Liverpool",
+						"category": "Polos",
+						"minimumListPrice": 199.0,
+						"maximumListPrice": 199.0,
+						"minimumPromoPrice": 0.0,
+						"maximumPromoPrice": 0.0
+					}, {
+						"displayName": "Playera tipo Polo para Caballero Regent Street",
+						"largeImage": "https://media11qa.liverpool.com.mx/web/images/products/es_MX/lg/45223856.jpg",
+						"productId": "45223856",
+						"listPrice": 299.0,
+						"promoPrice": 0.0,
+						"salePrice": 299.0,
+						"groupType": "not specified",
+						"isHybrid": false,
+						"isMarketPlace": false,
+						"brand": "REGENT STREET",
+						"seller": "Liverpool",
+						"category": "Polos",
+						"minimumListPrice": 299.0,
+						"maximumListPrice": 299.0,
+						"minimumPromoPrice": 0.0,
+						"maximumPromoPrice": 0.0
+					}, {
+						"displayName": "Playera Polo Ralph Lauren Custom-Fit Mesh Polo Shirt",
+						"largeImage": "https://media16qa.liverpool.com.mx/web/images/products/es_MX/lg/65682235.jpg",
+						"productId": "65682235",
+						"listPrice": 1390.0,
+						"promoPrice": 0.0,
+						"salePrice": 1390.0,
+						"groupType": "not specified",
+						"isHybrid": false,
+						"isMarketPlace": false,
+						"brand": "POLO RALPH LAUREN",
+						"seller": "Liverpool",
+						"category": "Playeras y Camisas",
+						"minimumListPrice": 1390.0,
+						"maximumListPrice": 1390.0,
+						"minimumPromoPrice": 0.0,
+						"maximumPromoPrice": 0.0
+					}, {
+						"displayName": "Playera tipo Polo para Caballero Scappino",
+						"largeImage": "https://media18qa.liverpool.com.mx/web/images/products/es_MX/lg/1027831898.jpg",
+						"productId": "1027831898",
+						"listPrice": 1290.0,
+						"promoPrice": 0.0,
+						"salePrice": 1290.0,
+						"groupType": "not specified",
+						"isHybrid": false,
+						"isMarketPlace": false,
+						"brand": "SCAPPINO",
+						"seller": "Liverpool",
+						"category": "Polos",
+						"minimumListPrice": 1290.0,
+						"maximumListPrice": 1290.0,
+						"minimumPromoPrice": 0.0,
+						"maximumPromoPrice": 0.0
+					}]
+				},
+				"type": "carousel"
+			}
+		}
+	]
+}
